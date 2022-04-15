@@ -14,6 +14,6 @@ This is the Lab1 excercise. In this report, a php website was created. There was
 <p align="center">
 --Get Data Page--
 
-![alt text](https://github.com/GeorgeKlg/Lab1_php_website//blob/main/read.png?raw=true)
+
 </p>
-</p>
+
